@@ -1,0 +1,16 @@
+PODS:
+  - lmashiya2018 (0.1.0)
+
+DEPENDENCIES:
+  - lmashiya2018 (from `../`)
+
+EXTERNAL SOURCES:
+  lmashiya2018:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lmashiya2018: 1c5a2562cc2e5d29b158038f903656c2fb4a076e
+
+PODFILE CHECKSUM: 545dde0dfe211d6861cbdb24123b41fa397a9f1f
+
+COCOAPODS: 1.5.3

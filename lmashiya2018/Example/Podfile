@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'lmashiya2018_Example' do
+  pod 'lmashiya2018', :path => '../'
+
+  target 'lmashiya2018_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

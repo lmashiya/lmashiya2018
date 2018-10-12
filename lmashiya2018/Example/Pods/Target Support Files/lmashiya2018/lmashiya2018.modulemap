@@ -1,0 +1,6 @@
+framework module lmashiya2018 {
+  umbrella header "lmashiya2018-umbrella.h"
+
+  export *
+  module * { export * }
+}
